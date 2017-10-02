@@ -1,0 +1,20 @@
+{
+  "name": "pace-lambda",
+  "version": "0.0.1",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "rewire": "^2.5.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
